@@ -1,2 +1,0 @@
-# zahrabashiry
-Just another repository
