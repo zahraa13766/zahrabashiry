@@ -1,5 +1,5 @@
 # zahrabashiry
 Just another repository
 <HTML>
-<HEAD><TITLE>ZAHRAZZ</TITIE>
+<haed><title>ZAHRAZZ</title></head>
 </HTML>
